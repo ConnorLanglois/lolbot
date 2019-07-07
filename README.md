@@ -1,4 +1,4 @@
-# LoLBot
+# LolBot
 
 A bot that zooms far out in League of Legends.
 
