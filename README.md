@@ -1,4 +1,4 @@
-# LolBot
+# Lolbot
 
 A bot that zooms far out in League of Legends.
 
@@ -19,7 +19,7 @@ Clone the repo.
 Run the main exe:
 
 ```
-dist/LoLBot.EXE
+dist/Lolbot.exe
 ```
 
 ## Authors
