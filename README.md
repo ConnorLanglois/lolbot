@@ -18,9 +18,9 @@ Clone the repo.
 
 Run the main exe:
 
-	```
-	dist/LoLBot.EXE
-	```
+```
+dist/LoLBot.EXE
+```
 
 ## Authors
 
